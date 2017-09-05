@@ -1,4 +1,4 @@
-#!/usr/bin/ash
+#!/usr/bin/bash
 
 ##Name of file whose contents exist in the <p> html tag
 contentsFile=$1
